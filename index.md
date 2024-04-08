@@ -2,6 +2,5 @@
 
 I am a faculty in Salisbury University, I study ecology
 
-* GitHub
 * email
-  
+
